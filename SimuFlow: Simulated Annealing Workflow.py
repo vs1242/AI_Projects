@@ -1,6 +1,6 @@
 import random
 import math
-
+##
 Jobs = [(3,6), (10,1), (3,2), (2,4), (8,8)]
 J=5 
 M=2
